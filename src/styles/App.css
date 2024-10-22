@@ -1,0 +1,16 @@
+.microphone-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .transcription {
+    margin-top: 20px;
+  }
+  
+  .past-transcriptions {
+    margin-top: 30px;
+  }
+  
